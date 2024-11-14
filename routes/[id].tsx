@@ -22,7 +22,7 @@ export default function Game(props: PageProps) {
                             />
                         </a>
                     </article>
-                    {game?.rating != undefined && game?.rating < 0 && (
+                    {game?.rating != undefined && game?.rating > 0 && (
                         <div class="rating justify-center items-center">
                             {[...Array(game?.rating)].map((_e, i) => (
                                 <input
