@@ -87,9 +87,9 @@ export const allGames: Game[] = [
         "boxArt":
             "https://res.cloudinary.com/ddz9c0wp9/image/upload/v1730325625/dreamless_f93xmb.jpg",
         "link": "https://store.steampowered.com/app/3011020/Dreamless/",
-        "isCompleted": false,
-        "completedOn": "",
-        "rating": 0,
+        "isCompleted": true,
+        "completedOn": "November 3rd, 2024",
+        "rating": 1,
     },
     {
         "id": 9,
@@ -129,9 +129,9 @@ export const allGames: Game[] = [
             "https://res.cloudinary.com/ddz9c0wp9/image/upload/v1730325639/hail_to_the_rainbow_demo_uhfw8v.jpg",
         "link":
             "https://store.steampowered.com/app/1699230/Hail_to_the_Rainbow/",
-        "isCompleted": false,
-        "completedOn": "",
-        "rating": 0,
+        "isCompleted": true,
+        "completedOn": "November 11th, 2024",
+        "rating": 4,
     },
     {
         "id": 13,
@@ -219,9 +219,9 @@ export const allGames: Game[] = [
         "boxArt":
             "https://res.cloudinary.com/ddz9c0wp9/image/upload/v1730325671/summer_of_58_whqwc2.jpg",
         "link": "https://store.steampowered.com/app/1609080/Summer_of_58/",
-        "isCompleted": false,
-        "completedOn": "",
-        "rating": 0,
+        "isCompleted": true,
+        "completedOn": "November 3rd, 2024",
+        "rating": 2,
     },
     {
         "id": 22,
@@ -234,16 +234,16 @@ export const allGames: Game[] = [
         "completedOn": "",
         "rating": 0,
     },
-    {
-        "id": 23,
-        "name": "The Council",
-        "boxArt":
-            "https://res.cloudinary.com/ddz9c0wp9/image/upload/v1730325678/the_council_enaf01.jpg",
-        "link": "https://store.steampowered.com/app/287630/The_Council/",
-        "isCompleted": false,
-        "completedOn": "",
-        "rating": 0,
-    },
+    // {
+    //     "id": 23,
+    //     "name": "The Council",
+    //     "boxArt":
+    //         "https://res.cloudinary.com/ddz9c0wp9/image/upload/v1730325678/the_council_enaf01.jpg",
+    //     "link": "https://store.steampowered.com/app/287630/The_Council/",
+    //     "isCompleted": false,
+    //     "completedOn": "",
+    //     "rating": 0,
+    // },
     {
         "id": 24,
         "name": "The Mortuary Assistant",
@@ -272,9 +272,9 @@ export const allGames: Game[] = [
             "https://res.cloudinary.com/ddz9c0wp9/image/upload/v1730325689/the_scourge_jgpulc.jpg",
         "link":
             "https://store.steampowered.com/app/2456350/The_Scourge__Tai_ng/",
-        "isCompleted": false,
-        "completedOn": "",
-        "rating": 0,
+        "isCompleted": true,
+        "completedOn": "November 5th, 2024",
+        "rating": 5,
     },
     {
         "id": 27,
@@ -283,9 +283,9 @@ export const allGames: Game[] = [
             "https://res.cloudinary.com/ddz9c0wp9/image/upload/v1730325693/the_windows_are_gone_ycg2ru.jpg",
         "link":
             "https://store.steampowered.com/app/2590250/The_Windows_Are_Gone/",
-        "isCompleted": false,
-        "completedOn": "",
-        "rating": 0,
+        "isCompleted": true,
+        "completedOn": "November 12th, 2024",
+        "rating": 3,
     },
     {
         "id": 28,
@@ -303,9 +303,9 @@ export const allGames: Game[] = [
         "boxArt":
             "https://res.cloudinary.com/ddz9c0wp9/image/upload/v1730325701/trapped_nt7kui.jpg",
         "link": "https://store.steampowered.com/app/1193990/Trapped/",
-        "isCompleted": false,
-        "completedOn": "",
-        "rating": 0,
+        "isCompleted": true,
+        "completedOn": "November 12th, 2024",
+        "rating": 3,
     },
     {
         "id": 30,

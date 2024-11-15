@@ -1,4 +1,5 @@
 import { type PageProps } from "$fresh/server.ts";
+
 export default function App({ Component }: PageProps) {
   return (
     <html style={"font-family: Oswald"}>
@@ -22,6 +23,21 @@ export default function App({ Component }: PageProps) {
       <body class="h-screen bg-[#090909]">
         <Component />
       </body>
+      {
+        /* {document.title == "PlagueZaddy's Games" && (
+        <footer
+          className={"bg-[#090909] flex align-center justify-center pt-8 pb-8"}
+        >
+          {console.log(document.title)}
+          <div className={"flex align-center"}>
+            Made with 💜 by&nbsp;
+            <a href={"https://www.twitch.tv/plaguezaddy"} target={"_blank"}>
+              PlagueZaddy
+            </a>
+          </div>
+        </footer>
+      )} */
+      }
     </html>
   );
 }
