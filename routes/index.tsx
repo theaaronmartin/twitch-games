@@ -7,7 +7,7 @@ export default function Home() {
       <a href="https://www.twitch.tv/plaguezaddy" target="_blank">
         <img
           class="w-64 md:w-72 lg:w-96 mt-16"
-          src="https://res.cloudinary.com/ddz9c0wp9/image/upload/v1730331571/purple-ghost-transparent_xpsiwv.png"
+          src="https://res.cloudinary.com/ddz9c0wp9/image/upload/v1731716770/purple-ghost-transparent_gshtz8.webp"
           alt="Logo"
         />
       </a>

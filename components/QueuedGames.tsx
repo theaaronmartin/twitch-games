@@ -15,7 +15,7 @@ export function QueuedGames() {
                                 key={index}
                                 class="card w-40 md:w-56 lg:w-64 xl:w-72"
                             >
-                                <a href={`/${game.id}`}>
+                                <a href={`${game.link}`} target={"_blank"}>
                                     <img
                                         class="self-center rounded-md"
                                         src={game.boxArt}
