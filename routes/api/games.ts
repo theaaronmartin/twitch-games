@@ -16,9 +16,9 @@ export const allGames: Game[] = [
             "https://res.cloudinary.com/ddz9c0wp9/image/upload/v1731715464/alessias_dollhouse_wdvrpt.webp",
         "link":
             "https://store.steampowered.com/app/3037780/Alessias_Dollhouse/",
-        "isCompleted": false,
-        "completedOn": "",
-        "rating": 0,
+        "isCompleted": true,
+        "completedOn": "November 17th, 2024",
+        "rating": 2.5,
     },
     {
         "id": 2,
@@ -199,9 +199,9 @@ export const allGames: Game[] = [
         "boxArt":
             "https://res.cloudinary.com/ddz9c0wp9/image/upload/v1731715570/rise_of_insanity_fzlzk0.webp",
         "link": "https://store.steampowered.com/app/629220/Rise_of_Insanity/",
-        "isCompleted": false,
-        "completedOn": "",
-        "rating": 0,
+        "isCompleted": true,
+        "completedOn": "November 17th, 2024",
+        "rating": 2,
     },
     {
         "id": 20,
