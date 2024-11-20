@@ -179,9 +179,9 @@ export const allGames: Game[] = [
         "boxArt":
             "https://res.cloudinary.com/ddz9c0wp9/image/upload/v1731715565/microbial_sector_cb7o1y.webp",
         "link": "https://store.steampowered.com/app/3141170/Microbial_Sector/",
-        "isCompleted": false,
-        "completedOn": "",
-        "rating": 0,
+        "isCompleted": true,
+        "completedOn": "November 19th, 2024",
+        "rating": 4,
     },
     {
         "id": 18,
@@ -251,9 +251,9 @@ export const allGames: Game[] = [
             "https://res.cloudinary.com/ddz9c0wp9/image/upload/v1731715583/the_mortuary_assistant_gdrh8x.webp",
         "link":
             "https://store.steampowered.com/app/1295920/The_Mortuary_Assistant/",
-        "isCompleted": false,
-        "completedOn": "",
-        "rating": 0,
+        "isCompleted": true,
+        "completedOn": "October 5th",
+        "rating": 4,
     },
     {
         "id": 25,
@@ -334,9 +334,9 @@ export const allGames: Game[] = [
         "boxArt":
             "https://res.cloudinary.com/ddz9c0wp9/image/upload/v1731715471/concluse_wjmxt6.webp",
         "link": "https://store.steampowered.com/app/826230/CONCLUSE/",
-        "isCompleted": false,
-        "completedOn": "",
-        "rating": 0,
+        "isCompleted": true,
+        "completedOn": "November 19th, 2024",
+        "rating": 1,
     },
     {
         "id": 33,
