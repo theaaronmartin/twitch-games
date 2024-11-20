@@ -252,7 +252,7 @@ export const allGames: Game[] = [
         "link":
             "https://store.steampowered.com/app/1295920/The_Mortuary_Assistant/",
         "isCompleted": true,
-        "completedOn": "October 5th",
+        "completedOn": "October 5th, 2024",
         "rating": 4,
     },
     {
