@@ -1,4 +1,5 @@
 import { CompletedGames } from "../components/CompletedGames.tsx";
+import { ContinuedGames } from "../components/ContinuedGames.tsx";
 import { QueuedGames } from "../components/QueuedGames.tsx";
 
 export default function Home() {
@@ -12,6 +13,7 @@ export default function Home() {
         />
       </a>
       <CompletedGames />
+      <ContinuedGames />
       <QueuedGames />
     </div>
   );
