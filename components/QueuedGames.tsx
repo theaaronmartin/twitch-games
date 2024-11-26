@@ -9,7 +9,7 @@ export function QueuedGames() {
             <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-4 align-center gap-5 md:gap-6 lg:gap-7">
                 {sortedGames.map((game: Game, index: number) => {
                     return (
-                        !game.isCompleted &&
+                        !game.isCompleted && !game.toBeContinued &&
                         (
                             <article
                                 key={index}
