@@ -383,4 +383,97 @@ export const allGames: Game[] = [
         "completedOn": "November 11th, 2024",
         "rating": 3.5,
     },
+    {
+        "id": 34,
+        "name": "The Beast Inside",
+        "boxArt":
+            "https://res.cloudinary.com/ddz9c0wp9/image/upload/v1732863013/the_beast_inside_enk81b.webp",
+        "link": "https://store.steampowered.com/app/792300/The_Beast_Inside/",
+        "isCompleted": false,
+        "toBeContinued": false,
+        "completedOn": "",
+        "rating": 0,
+    },
+    {
+        "id": 35,
+        "name": "Christmas Nightmare",
+        "boxArt":
+            "https://res.cloudinary.com/ddz9c0wp9/image/upload/v1732862921/christmas_nightmare_jruqq4.webp",
+        "link":
+            "https://store.steampowered.com/app/2693460/Christmas_Nightmare/",
+        "isCompleted": false,
+        "toBeContinued": false,
+        "completedOn": "",
+        "rating": 0,
+    },
+    {
+        "id": 36,
+        "name": "I'm on Observation Duty 7",
+        "boxArt":
+            "https://res.cloudinary.com/ddz9c0wp9/image/upload/v1732862921/observation_7_bxboom.webp",
+        "link":
+            "https://store.steampowered.com/app/2462520/Im_on_Observation_Duty_7/",
+        "isCompleted": false,
+        "toBeContinued": false,
+        "completedOn": "",
+        "rating": 0,
+    },
+    {
+        "id": 37,
+        "name": "Lost Alone Ultimate",
+        "boxArt":
+            "https://res.cloudinary.com/ddz9c0wp9/image/upload/v1732862921/lost_alone_ultimate_blvyyi.webp",
+        "link":
+            "https://store.steampowered.com/app/2341330/Lost_Alone_Ultimate/",
+        "isCompleted": false,
+        "toBeContinued": false,
+        "completedOn": "",
+        "rating": 0,
+    },
+    {
+        "id": 38,
+        "name": "The Room",
+        "boxArt":
+            "https://res.cloudinary.com/ddz9c0wp9/image/upload/v1732862922/the_room_yaro9i.webp",
+        "link": "https://store.steampowered.com/app/288160/The_Room/",
+        "isCompleted": false,
+        "toBeContinued": false,
+        "completedOn": "",
+        "rating": 0,
+    },
+    {
+        "id": 39,
+        "name": "The Room Two",
+        "boxArt":
+            "https://res.cloudinary.com/ddz9c0wp9/image/upload/v1732862922/the_room_two_st4rfd.webp",
+        "link": "https://store.steampowered.com/app/425580/The_Room_Two/",
+        "isCompleted": false,
+        "toBeContinued": false,
+        "completedOn": "",
+        "rating": 0,
+    },
+    {
+        "id": 40,
+        "name": "The Room 4: Old Sins",
+        "boxArt":
+            "https://res.cloudinary.com/ddz9c0wp9/image/upload/v1732862922/the_room_four_ed8lby.webp",
+        "link":
+            "https://store.steampowered.com/app/1361320/The_Room_4_Old_Sins/",
+        "isCompleted": false,
+        "toBeContinued": false,
+        "completedOn": "",
+        "rating": 0,
+    },
+    {
+        "id": 41,
+        "name": "Scary Shadow Spot: Last Farewell",
+        "boxArt":
+            "https://res.cloudinary.com/ddz9c0wp9/image/upload/v1732862922/scary_shadow_spot_q5t0ou.webp",
+        "link":
+            "https://store.steampowered.com/app/3096050/Scary_Shadow_Spot__Last_Farewell/",
+        "isCompleted": false,
+        "toBeContinued": false,
+        "completedOn": "",
+        "rating": 0,
+    },
 ];
