@@ -84,10 +84,10 @@ export const allGames: Game[] = [
         "boxArt":
             "https://res.cloudinary.com/ddz9c0wp9/image/upload/v1731715481/dont_be_afraid_lih7hh.webp",
         "link": "https://store.steampowered.com/app/760410/Dont_Be_Afraid/",
-        "isCompleted": false,
+        "isCompleted": true,
         "toBeContinued": false,
-        "completedOn": "",
-        "rating": 0,
+        "completedOn": "November 26th, 2024",
+        "rating": 3,
     },
     {
         "id": 8,
@@ -198,7 +198,7 @@ export const allGames: Game[] = [
         "link": "https://store.steampowered.com/app/3141170/Microbial_Sector/",
         "isCompleted": false,
         "toBeContinued": true,
-        "completedOn": "November 19th, 2024",
+        "completedOn": "", // November 19th, 2024
         "rating": 4,
     },
     {
@@ -230,9 +230,9 @@ export const allGames: Game[] = [
             "https://res.cloudinary.com/ddz9c0wp9/image/upload/v1731715573/soma_rqyu0s.webp",
         "link": "https://store.steampowered.com/app/282140/SOMA/",
         "isCompleted": false,
-        "toBeContinued": false,
+        "toBeContinued": true,
         "completedOn": "",
-        "rating": 0,
+        "rating": 5,
     },
     {
         "id": 21,
@@ -277,7 +277,7 @@ export const allGames: Game[] = [
             "https://store.steampowered.com/app/1295920/The_Mortuary_Assistant/",
         "isCompleted": false,
         "toBeContinued": true,
-        "completedOn": "October 5th, 2024",
+        "completedOn": "", // October 5th, 2024
         "rating": 4,
     },
     {
@@ -288,7 +288,7 @@ export const allGames: Game[] = [
         "link": "https://store.steampowered.com/app/456750/The_Room_Three/",
         "isCompleted": false,
         "toBeContinued": true,
-        "completedOn": "November 24th, 2024",
+        "completedOn": "",
         "rating": 4.5,
     },
     {
