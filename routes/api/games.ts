@@ -229,9 +229,9 @@ export const allGames: Game[] = [
         "boxArt":
             "https://res.cloudinary.com/ddz9c0wp9/image/upload/v1731715573/soma_rqyu0s.webp",
         "link": "https://store.steampowered.com/app/282140/SOMA/",
-        "isCompleted": false,
-        "toBeContinued": true,
-        "completedOn": "",
+        "isCompleted": true,
+        "toBeContinued": false,
+        "completedOn": "December 8th, 2024",
         "rating": 5,
     },
     {
@@ -286,9 +286,9 @@ export const allGames: Game[] = [
         "boxArt":
             "https://res.cloudinary.com/ddz9c0wp9/image/upload/v1731715585/the_room_three_qltjod.webp",
         "link": "https://store.steampowered.com/app/456750/The_Room_Three/",
-        "isCompleted": false,
-        "toBeContinued": true,
-        "completedOn": "",
+        "isCompleted": true,
+        "toBeContinued": false,
+        "completedOn": "December 22nd, 2024",
         "rating": 4.5,
     },
     {
@@ -401,10 +401,10 @@ export const allGames: Game[] = [
             "https://res.cloudinary.com/ddz9c0wp9/image/upload/v1732862921/christmas_nightmare_jruqq4.webp",
         "link":
             "https://store.steampowered.com/app/2693460/Christmas_Nightmare/",
-        "isCompleted": false,
+        "isCompleted": true,
         "toBeContinued": false,
-        "completedOn": "",
-        "rating": 0,
+        "completedOn": "December 3rd, 2024",
+        "rating": 3,
     },
     {
         "id": 36,
@@ -414,7 +414,7 @@ export const allGames: Game[] = [
         "link":
             "https://store.steampowered.com/app/2462520/Im_on_Observation_Duty_7/",
         "isCompleted": false,
-        "toBeContinued": false,
+        "toBeContinued": true,
         "completedOn": "",
         "rating": 0,
     },
@@ -425,10 +425,10 @@ export const allGames: Game[] = [
             "https://res.cloudinary.com/ddz9c0wp9/image/upload/v1732862921/lost_alone_ultimate_blvyyi.webp",
         "link":
             "https://store.steampowered.com/app/2341330/Lost_Alone_Ultimate/",
-        "isCompleted": false,
+        "isCompleted": true,
         "toBeContinued": false,
-        "completedOn": "",
-        "rating": 0,
+        "completedOn": "December 17th, 2024",
+        "rating": 3.5,
     },
     {
         "id": 38,
